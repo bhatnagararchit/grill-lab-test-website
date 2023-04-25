@@ -9,4 +9,4 @@ links:
   email: grill@mpi-cbg.de
 ---
 
-Some description of Stephan's career :)
+I'm too lazy to bother copying over Stephan's CV, even if it is available.
