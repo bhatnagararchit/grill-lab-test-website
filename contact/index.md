@@ -9,15 +9,12 @@ nav:
 
 We are located at
 
-{:center
-**Grill Lab**
-
-Max Planck Institute for Molecular Cell Biology and Genetics
-
-Pfotenhauerstrasse 108
-
-Dresden 01037
-}
+<center>
+  <b>Grill Lab</b><br/>
+Max Planck Institute for Molecular Cell Biology and Genetics<br/>
+Pfotenhauerstrasse 108<br/>
+Dresden 01037<br/>
+</center>
 
 {%
   include button.html
