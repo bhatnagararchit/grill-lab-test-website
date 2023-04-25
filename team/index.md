@@ -5,13 +5,18 @@ nav:
   tooltip: Lab members
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
+# Current Members
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+
+# Alumni
+
+- Arjun Narayanan
+- Victoria Yan
+- Peter Gross
+- Mark Leaver
+- Jose
+- Roman Renger
+- Lokesh Pimpale
+- ...
