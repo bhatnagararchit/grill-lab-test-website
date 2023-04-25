@@ -1,18 +1,16 @@
 # site properties and page defaults
-title: bhatnagararchit
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Grill lab (test)
+subtitle: Physics of Life Lab?
+description: We aim to reveal physical principles and develop physical concepts that underly the dynamic self-organization of living matter
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@bhatnagararchit.com
+  email: someContact@Info.com
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
   github: bhatnagararchit
-  twitter: bhatnagararchit
-  youtube: bhatnagararchit
 
 ### jekyll settings
 
