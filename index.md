@@ -1,6 +1,4 @@
 ---
-nav:
-  order: 1
 ---
 
 We aim to reveal physical principles and develop physical concepts that underly the dynamic self-organization of living matter.
