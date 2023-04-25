@@ -7,10 +7,10 @@ footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: someContact@Info.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: bhatnagararchit
+  email: grill@mpi-cbg.de
+  #google-scholar: ETJoidYAAAAJ
+  #github: bhatnagararchit
+  #orcid: 0000-0001-8713-9213
 
 ### jekyll settings
 
