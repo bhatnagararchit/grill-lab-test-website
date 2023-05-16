@@ -1,7 +1,7 @@
 ---
 name: Tina Neumann
 image: images/photo.jpg
-description: Happy Birthday!
+description: Technician
 role: programmer
 links:
   email: crell@mpi-cbg.de 
